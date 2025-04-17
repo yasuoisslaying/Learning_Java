@@ -16,9 +16,7 @@ public class App {
 
     
 
-    for(int i=0; i<5; i++){
-        System.out.println("Hello "+i);
-    }
+   System.out.println("I am learning virsion control using git and vscode and github");
 
 }
 }

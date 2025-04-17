@@ -6,3 +6,4 @@ public class functions {
         return a-b;
     }
 }
+
